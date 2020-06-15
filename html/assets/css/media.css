@@ -1,0 +1,42 @@
+@media (max-width: 1600px) {
+.form-logo{margin-bottom: 30px;}
+.reset-pass-box .form-logo{margin-bottom: 70px;}
+.lock-icon{margin-bottom: 30px;}
+.login-box h2{margin-bottom: 30px;}
+.form-group.submit{margin-top: 40px;}
+}
+
+@media (max-width: 1440px) {
+.main{padding: 40px 0;}
+.login-box{padding-left: 70px;}
+.reset-pass-box .form-logo{margin-bottom: 50px;}
+.lock-icon img{width: 50px;}
+label{font-size: 15px;}
+.form-control{font-size: 15px;}
+}
+
+@media (max-width: 1366px) {
+}
+
+@media (max-width: 1199px) {
+.login-box{padding-left: 20px;}
+.login-box.register-box{padding-left: 0;max-width: 600px;width: 100%;margin: 0 auto;}
+.btn-custom{padding: 8px 25px;}
+}
+
+@media (max-width: 991px) {
+.login-box{padding-left: 0;max-width: 500px;width: 100%;margin: 0 auto;}
+.form-logo{text-align: center;}
+.login-box h2{margin-bottom: 30px;}
+.right-part-vector{padding-top: 40px;}
+.login-box .width-320{margin: 0 auto;max-width: 400px;}
+}
+
+@media (max-width: 767px) {
+.reset-pass-box .form-logo{margin-bottom: 50px;}
+.login-box{padding-left: 0;}
+.lock-icon img{width: 40px;}
+.login-box h2{font-size: 24px;}
+.form-group{margin-bottom: 20px;}
+.form-group.submit{margin-top: 40px;}
+}
